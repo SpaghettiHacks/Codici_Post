@@ -1,0 +1,28 @@
+Accedere al seguente link:
+    https://discord.com/developers/applications
+
+Creare una nuova applicazione con il tasto:
+    New Applications
+
+Dare un nome al bot
+
+Andare e nella nezione Bot:
+    Cliccare Add Bot
+
+Andare e nella nezione OAuth2:
+    Nel form scopes:
+        Spuntare Bot
+        Copiare il link fornito subito sotto
+    Nel form Bot Permissions:
+        Spuntare Administrator
+
+Copiare il link preso in precedenza nella barra di ricerca:
+    Invitare il bot nel server desiderato
+
+Andare nella sezione Bot:
+    Copiare il TOKEN
+
+Creare il bot in Python.
+
+
+
